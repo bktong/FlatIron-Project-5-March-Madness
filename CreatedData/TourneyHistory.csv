@@ -1,0 +1,301 @@
+TeamID,TeamName,Average Seed,# Tourneys
+1181,Duke,2.18,34
+1242,Kansas,2.50,34
+1112,Arizona,4.44,32
+1314,North Carolina,2.72,32
+1246,Kentucky,3.57,30
+1277,Michigan St,4.83,29
+1393,Syracuse,4.43,28
+1257,Louisville,5.00,26
+1328,Oklahoma,5.08,26
+1345,Purdue,5.15,26
+1400,Texas,6.88,26
+1417,UCLA,5.27,26
+1462,Xavier,8.27,26
+1231,Indiana,5.08,25
+1396,Temple,7.71,24
+1153,Cincinnati,5.09,23
+1437,Villanova,5.48,23
+1196,Florida,4.95,22
+1211,Gonzaga,6.55,22
+1228,Illinois,5.05,22
+1458,Wisconsin,5.73,22
+1207,Georgetown,4.67,21
+1268,Maryland,4.95,21
+1276,Michigan,4.81,21
+1116,Arkansas,6.45,20
+1163,Connecticut,3.95,20
+1281,Missouri,6.90,20
+1326,Ohio St,4.45,20
+1235,Iowa St,6.84,19
+1329,Oklahoma St,6.00,19
+1338,Pittsburgh,5.32,19
+1140,BYU,9.22,18
+1234,Iowa,6.89,18
+1272,Memphis,5.56,18
+1323,Notre Dame,6.11,18
+1438,Virginia,4.72,18
+1104,Alabama,6.44,16
+1261,LSU,7.19,16
+1266,Marquette,6.38,16
+1301,NC State,7.56,16
+1390,Stanford,5.75,16
+1428,Utah,6.25,16
+1452,West Virginia,6.56,16
+1139,Butler,8.67,15
+1210,Georgia Tech,5.60,15
+1243,Kansas St,7.27,15
+1293,Murray St,12.80,15
+1308,New Mexico St,11.67,15
+1385,St John's,5.87,15
+1424,UNLV,5.53,15
+1448,Wake Forest,5.07,15
+1143,California,7.79,14
+1166,Creighton,8.93,14
+1397,Tennessee,5.93,14
+1199,Florida St,6.46,13
+1335,Penn,13.23,13
+1371,Seton Hall,7.00,13
+1409,Tulsa,9.69,13
+1433,VCU,9.00,13
+1435,Vanderbilt,6.69,13
+1278,Minnesota,7.83,12
+1307,New Mexico,6.83,12
+1332,Oregon,6.50,12
+1344,Providence,8.92,12
+1425,USC,7.67,12
+1443,WKU,11.33,12
+1130,Boston College,7.09,11
+1155,Clemson,6.64,11
+1208,Georgia,8.00,11
+1233,Iona,13.91,11
+1285,Montana,14.36,11
+1343,Princeton,12.00,11
+1403,Texas Tech,7.09,11
+1412,UAB,9.82,11
+1429,Utah St,11.91,11
+1449,Washington,7.27,11
+1455,Wichita St,8.00,11
+1150,Charlotte,8.10,10
+1172,Davidson,13.00,10
+1173,Dayton,9.30,10
+1280,Mississippi St,6.00,10
+1330,Old Dominion,12.10,10
+1361,San Diego St,8.60,10
+1431,UTEP,10.00,10
+1457,Winthrop,14.40,10
+1120,Auburn,6.89,9
+1124,Baylor,5.67,9
+1177,DePaul,8.00,9
+1190,ETSU,14.00,9
+1203,G Washington,10.33,9
+1274,Miami FL,5.56,9
+1356,S Illinois,9.78,9
+1388,St Mary's CA,9.78,9
+1401,Texas A&M,7.44,9
+1434,Valparaiso,13.89,9
+1125,Belmont,13.63,8
+1137,Bucknell,13.25,8
+1151,Chattanooga,14.13,8
+1269,Massachusetts,4.38,8
+1279,Mississippi,8.00,8
+1305,Nevada,8.88,8
+1320,Northern Iowa,10.75,8
+1350,Richmond,12.13,8
+1380,Southern Univ,15.25,8
+1386,St Joseph's PA,7.00,8
+1387,St Louis,8.25,8
+1411,TX Southern,15.38,8
+1113,Arizona St,8.71,7
+1275,Miami OH,12.00,7
+1299,NC A&T,15.57,7
+1304,Nebraska,8.29,7
+1337,Pepperdine,12.29,7
+1348,Rhode Island,9.43,7
+1436,Vermont,14.57,7
+1439,Virginia Tech,7.29,7
+1123,Ball St,12.17,6
+1129,Boise St,13.33,6
+1160,Colorado,9.33,6
+1192,F Dickinson,15.83,6
+1206,George Mason,12.33,6
+1214,Hampton,15.67,6
+1221,Holy Cross,14.50,6
+1222,Houston,8.67,6
+1245,Kent,11.50,6
+1264,Manhattan,13.17,6
+1283,Missouri St,12.17,6
+1292,MTSU,13.00,6
+1298,Navy,12.50,6
+1318,Northeastern,14.00,6
+1352,Robert Morris,15.50,6
+1373,Siena,13.00,6
+1375,South Alabama,12.17,6
+1418,Louisiana,13.00,6
+1419,ULM,14.33,6
+1423,UNC Wilmington,12.17,6
+1451,Weber St,14.33,6
+1107,SUNY Albany,14.80,5
+1114,Ark Little Rock,14.20,5
+1122,Austin Peay,14.40,5
+1131,Boston Univ,15.00,5
+1133,Bradley,10.40,5
+1158,Col Charleston,11.80,5
+1161,Colorado St,10.60,5
+1174,Delaware,13.40,5
+1209,Georgia St,14.00,5
+1247,La Salle,10.20,5
+1250,Lehigh,15.80,5
+1254,LIU Brooklyn,15.20,5
+1290,MS Valley St,15.80,5
+1291,Mt St Mary's,16.00,5
+1309,New Orleans,11.20,5
+1325,Ohio,13.20,5
+1333,Oregon St,8.00,5
+1334,Pacific,12.20,5
+1354,S Carolina St,15.40,5
+1355,S Dakota St,13.40,5
+1364,UC Santa Barbara,12.60,5
+1372,SF Austin,13.20,5
+1374,SMU,6.80,5
+1376,South Carolina,6.80,5
+1416,UCF,14.00,5
+1453,WI Green Bay,12.00,5
+1459,Wofford,12.20,5
+1103,Akron,13.75,4
+1106,Alabama St,16.00,4
+1138,Buffalo,11.25,4
+1157,Coastal Car,15.75,4
+1164,Coppin St,15.25,4
+1165,Cornell,14.00,4
+1180,Drexel,13.25,4
+1185,E Michigan,12.25,4
+1191,Evansville,11.00,4
+1217,Harvard,12.75,4
+1218,Hawaii,12.00,4
+1229,Illinois St,10.75,4
+1251,Liberty,15.00,4
+1253,Long Beach St,12.00,4
+1256,Louisiana Tech,10.00,4
+1284,Monmouth NJ,15.00,4
+1295,N Dakota St,14.25,4
+1300,NC Central,15.50,4
+1336,Penn St,8.75,4
+1365,Santa Clara,13.00,4
+1421,UNC Asheville,15.75,4
+1427,UT San Antonio,15.50,4
+1454,WI Milwaukee,12.50,4
+1461,Wyoming,10.50,4
+1110,American Univ,14.67,3
+1148,Central Conn,15.00,3
+1159,Colgate,15.67,3
+1178,Detroit,12.33,3
+1184,E Kentucky,15.33,3
+1193,Fairfield,15.00,3
+1195,FL Gulf Coast,15.00,3
+1197,Florida A&M,16.00,3
+1201,Fresno St,10.67,3
+1227,IL Chicago,12.33,3
+1232,Indiana St,13.00,3
+1238,Jackson St,16.00,3
+1248,Lafayette,15.33,3
+1258,Loy Marymount,11.00,3
+1267,Marshall,13.67,3
+1317,North Texas,15.00,3
+1322,Northwestern LA,14.67,3
+1324,Oakland,14.33,3
+1331,Oral Roberts,14.33,3
+1347,Radford,16.00,3
+1360,San Diego,11.67,3
+1378,South Florida,12.67,3
+1379,Southern Miss,11.00,3
+1382,St Bonaventure,12.33,3
+1389,St Peter's,13.67,3
+1395,TCU,5.00,3
+1408,Tulane,10.00,3
+1422,UNC Greensboro,14.67,3
+1444,W Michigan,12.00,3
+1450,Washington St,5.00,3
+1460,Wright St,14.67,3
+1102,Air Force,12.00,2
+1108,Alcorn St,15.50,2
+1141,C Michigan,12.00,2
+1156,Cleveland St,13.50,2
+1168,CS Fullerton,14.50,2
+1169,CS Northridge,14.00,2
+1183,E Illinois,15.00,2
+1186,E Washington,14.00,2
+1204,Ga Southern,15.00,2
+1220,Hofstra,13.50,2
+1225,Idaho,13.00,2
+1241,James Madison,15.00,2
+1249,Lamar,16.00,2
+1259,Loyola MD,15.00,2
+1260,Loyola-Chicago,7.50,2
+1265,Marist,14.50,2
+1270,McNeese St,15.00,2
+1273,Mercer,14.50,2
+1286,Montana St,14.50,2
+1287,Morehead St,14.50,2
+1288,Morgan St,15.00,2
+1296,N Illinois,13.50,2
+1297,N Kentucky,14.50,2
+1310,Niagara,15.00,2
+1311,Nicholls St,14.50,2
+1319,Northern Arizona,15.00,2
+1340,Portland St,14.50,2
+1341,Prairie View,16.00,2
+1351,Rider,15.50,2
+1353,Rutgers,11.00,2
+1358,Sam Houston St,14.50,2
+1359,Samford,13.50,2
+1398,Tennessee St,14.50,2
+1402,Texas St,15.50,2
+1406,Towson,16.00,2
+1407,Troy,14.50,2
+1414,UC Irvine,13.00,2
+1420,UMBC,15.50,2
+1463,Yale,13.00,2
+1101,Abilene Chr,15.00,1
+1105,Alabama A&M,16.00,1
+1111,Appalachian St,14.00,1
+1115,Ark Pine Bluff,16.00,1
+1117,Arkansas St,15.00,1
+1127,Binghamton,15.00,1
+1135,Brown,15.00,1
+1142,Cal Poly,16.00,1
+1144,Campbell,16.00,1
+1145,Canisius,13.00,1
+1149,Charleston So,15.00,1
+1167,CS Bakersfield,15.00,1
+1175,Delaware St,16.00,1
+1179,Drake,5.00,1
+1187,East Carolina,16.00,1
+1194,FL Atlantic,15.00,1
+1198,Florida Intl,16.00,1
+1200,Fordham,14.00,1
+1205,Gardner Webb,16.00,1
+1224,Howard,16.00,1
+1226,Idaho St,16.00,1
+1237,IUPUI,16.00,1
+1239,Jacksonville,8.00,1
+1240,Jacksonville St,15.00,1
+1252,Lipscomb,15.00,1
+1294,N Colorado,15.00,1
+1313,Norfolk St,15.00,1
+1315,North Dakota,15.00,1
+1316,North Florida,16.00,1
+1321,Northwestern,8.00,1
+1339,Portland,14.00,1
+1362,San Francisco,14.00,1
+1363,San Jose St,16.00,1
+1368,SE Louisiana,15.00,1
+1369,SE Missouri St,13.00,1
+1381,Southern Utah,14.00,1
+1384,St Francis PA,15.00,1
+1392,Stony Brook,13.00,1
+1394,TAM C. Christi,15.00,1
+1413,UC Davis,16.00,1
+1426,UT Arlington,16.00,1
+1441,W Carolina,16.00,1
+1447,Wagner,15.00,1
