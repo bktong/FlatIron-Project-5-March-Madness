@@ -17,6 +17,8 @@ Then run "Project 5 - Model.ipynb" to run the classification model.
 Running the code will overwrite the existing files.
 
 #Assumptions: 
+We are only using the men's data as play styles between the two leagues are different.   For a future exercise it would be interesting to catalogue the weight differences between the features in our model.
+
 We only use our regular season data to test our tournament results since the goal of the exercise is to use all data available to use to predict matchup winners in this years Tournament.
 
 That said, I'll assume I had a perfect model until proved otherwise.
