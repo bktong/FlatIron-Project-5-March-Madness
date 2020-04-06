@@ -7,6 +7,8 @@ This project used Python 3.7 and incorporated multiple python packages available
 
 #Data:
 Kaggle Dataset:  www.kaggle.com
+A lot of the data files provided by Kaggle were very large.  This repo only kept datasets we used for this project.
+The larger unused files can still be found at kaggle.com
 Sponsorship:   scraped off internet, multiple sources
 
 #How to Run Model
