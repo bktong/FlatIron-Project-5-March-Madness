@@ -14,7 +14,10 @@ A lot of the data files provided by Kaggle were very large.  This repo only kept
 
 #How to Run Model
 First run "Project 5 - March Madness Data Prep.ipynb" Jupyter Notebook to create our dataset.
-Then run "Project 5 - Model.ipynb" to run the classification model.
+
+If you want to run the model, "Project 5 - Model.ipynb" to run the classification model.  
+
+We took our optimal model and parameters and used those to test our predictions in "Project 5 - Prediction Testing.ipnyb"
 
 #Side Effects:
 Running the code will overwrite the existing files.
