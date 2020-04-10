@@ -6,10 +6,11 @@ Intel Core I5-6200U CPU at 2.5GHz, 2400 Mhz, 4 Core, 8GB RAM, Windows 10
 This project used Python 3.7 and incorporated multiple python packages available at www.anaconda.com
 
 #Data:
-Kaggle Dataset:  www.kaggle.com
+- Kaggle Dataset:  www.kaggle.com
 A lot of the data files provided by Kaggle were very large.  This repo only kept datasets we used for this project.
-The larger unused files can still be found at kaggle.com
-Sponsorship:   scraped off internet, multiple sources
+- The larger unused files can still be found at kaggle.com
+- Sponsorship data:   scraped off internet, multiple sources, primarily from google images taken during the current season.  It should be noted that multiple teams have switched sponsors when their contracts are up.  The data available is ONLY up to date as of March 2020.
+- Additional Notebooks were created for my personal exploration, and not necessary for the project itself.
 
 #How to Run Model
 First run "Project 5 - March Madness Data Prep.ipynb" Jupyter Notebook to create our dataset.
