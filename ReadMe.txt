@@ -1,4 +1,17 @@
 
+
+# Folders and Files
+ - "/2020DataFiles" - folder for all data provided from the kaggle competition.  Since many were large, only relevant files were kept.
+ - "/CreatedData" - folder for all created data during this project
+ - "Project 5 - LogLoss Scoring.ipynb" - Notebook used to work with Kaggle's LogLoss scoring.
+ - "Project 5 - March Madness Data Prep.ipynb" - Notebook used to preprocess and format the data for use in the model.
+ - "Project 5 - Model.ipynb" - Notebook used to determine the optimal model to use for the project.
+ - "Project 5 - Prediction Testing.ipynb" - Notebook used to run results of the model.
+ - "Project 5 - Searching for Cinderella.ipynb" - Notebook used to get understanding of data and create visualizations.  
+                Not used in the project.
+ - "ReadMe.txt" - This file
+ - "Searching for Cinderella - Mod 5 Presentation.pdf" - copy of my presentation for this project.
+
 # Overview
 I split this project into multiple large sections. Data / Model / Execution and those are the 3 phases relevant to the actual mod 5 project.
 There are two other notebooks.  The "Searching for Cinderella" notebook which is essentially a cleaned up version of my data exploration. The second is a logloss notebook where I was playing around with the Logloss scoring metric kaggle uses to score the tournament.
